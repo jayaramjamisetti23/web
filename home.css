@@ -1,0 +1,15 @@
+#div1{
+    display: flex;
+    padding: 10%;
+    width: 80%;
+    height: 80%;
+    background-color: black;
+    justify-content: space-between;
+}
+
+.a1{
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
